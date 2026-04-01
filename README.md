@@ -41,7 +41,7 @@
 <h3 align="center">Ejercicio Pokémon 2.0</h3>
 <div align="center">
 <a href="https://github.com/jdavellaneda2006/Ejercicio-pokemon-2.0">
-<img src="https://via.placeholder.com/400x200?text=Pokemon+Project" width="400px">
+
 </a>
 <p>
 <a href="https://github.com/jdavellaneda2006/Ejercicio-pokemon-2.0">
@@ -55,7 +55,7 @@
 <h3 align="center">Blog con Strapi Cloud</h3>
 <div align="center">
 <a href="https://github.com/jdavellaneda2006/strapi-cloud-template-blog-f8d66008f8">
-<img src="https://via.placeholder.com/400x200?text=Strapi+Blog" width="400px">
+
 </a>
 <p>
 <a href="https://github.com/jdavellaneda2006/strapi-cloud-template-blog-f8d66008f8">
