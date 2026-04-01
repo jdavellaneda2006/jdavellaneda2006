@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hola, soy Juan 👋</h1>
-  <p>💻 Desarrollador en formación | 🎨 Interesado en creación digital | ⚽ Amante del fútbol</p>
+  <h1>Hola, soy Juan Diego 👋</h1>
+  <p>💻 Desarrollador en formación | 🎨 Interesado en creación digital | ⚽ Amante del cine , comics </p>
 </div>
 
 <p align="center">
@@ -26,10 +26,10 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,,git,github,blender," />
 </p>
 
----
+
 
 ## 📂 Proyectos destacados
 
