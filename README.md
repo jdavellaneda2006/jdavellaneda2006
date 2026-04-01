@@ -69,22 +69,16 @@
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
 ## 🌐 Contacto
 
 <p align="center">
-<a href="https://linkedin.com/">
+<a href="[https://linkedin.com](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_background_image_select%3BmxdQ%2Bc3hRK284LSYFCacug%3D%3D)/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:juandiegoavellaneda06@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
