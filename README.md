@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
-  <p>💻 Desarrollador en formación | 🎨 Interesado en creación digital | ⚽ Amante del cine , comics </p>
+  <p>💻 Desarrollador en formación | 🎨 Interesado en creación digital | ⚽ Amante del cine y el mundo geek </p>
 </div>
 
 <p align="center">
 <a href="https://github.com/jdavellaneda2006">
-    <img src="https://img.shields.io/github/followers/tuusuario?label=Followers&style=social">
+    <img src="https://img.shields.io/badge/Followers-3-blue?style=social">
   </a>
 <a href="https://www.youtube.com/@juandiegoavellaneda1748">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCQvYlJc6lqkF0s2zX6zZk8g?style=social">
