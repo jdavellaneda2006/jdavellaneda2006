@@ -22,7 +22,16 @@
 - 💻 Aprendiendo desarrollo web y programación  
 - 🎨 Interesado en diseño, animación y creación digital  
 - 🌱 Actualmente aprendiendo: **JavaScript, Git y Blender**  
-- 🎯 Objetivo: Crear proyectos creativos e interactivos  
+- 🎯 Objetivo: Crear proyectos creativos e interactivos
+
+Soy un desarrollador en formación enfocado en diseño web y creación digital. Me interesa combinar la tecnología con lo visual para construir experiencias interactivas y atractivas.
+
+Actualmente estoy fortaleciendo mis habilidades en desarrollo frontend y explorando herramientas creativas como Blender y diseño digital. Disfruto trabajar en proyectos donde pueda aplicar tanto la lógica como la creatividad.
+
+Me motiva aprender constantemente y crear proyectos que no solo funcionen bien, sino que también transmitan una idea o emoción.
+
+---
+
 
 ---
 
