@@ -26,7 +26,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,,git,github,blender," />
+  <img src="https://skillicons.dev/icons?i=html,css,github,blender,figma" />
 </p>
 
 
