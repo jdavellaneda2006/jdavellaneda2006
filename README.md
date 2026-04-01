@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/tuusuario">
+<a href="https://github.com/jdavellaneda2006">
     <img src="https://img.shields.io/github/followers/tuusuario?label=Followers&style=social">
   </a>
 <a href="https://www.youtube.com/@juandiegoavellaneda1748">
