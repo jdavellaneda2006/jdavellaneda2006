@@ -38,13 +38,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto 1</h3>
+<h3 align="center">Ejercicio Pokémon 2.0</h3>
 <div align="center">
-<a href="https://github.com/tuusuario/proyecto1">
-<img src="https://via.placeholder.com/400x200" width="400px">
+<a href="https://github.com/jdavellaneda2006/Ejercicio-pokemon-2.0">
+<img src="https://via.placeholder.com/400x200?text=Pokemon+Project" width="400px">
 </a>
 <p>
-<a href="https://github.com/tuusuario/proyecto1">
+<a href="https://github.com/jdavellaneda2006/Ejercicio-pokemon-2.0">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github">
 </a>
 </p>
@@ -52,13 +52,13 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Proyecto 2</h3>
+<h3 align="center">Blog con Strapi Cloud</h3>
 <div align="center">
-<a href="https://github.com/tuusuario/proyecto2">
-<img src="https://via.placeholder.com/400x200" width="400px">
+<a href="https://github.com/jdavellaneda2006/strapi-cloud-template-blog-f8d66008f8">
+<img src="https://via.placeholder.com/400x200?text=Strapi+Blog" width="400px">
 </a>
 <p>
-<a href="https://github.com/tuusuario/proyecto2">
+<a href="https://github.com/jdavellaneda2006/strapi-cloud-template-blog-f8d66008f8">
 <img src="https://img.shields.io/badge/Código-000?style=for-the-badge&logo=github">
 </a>
 </p>
