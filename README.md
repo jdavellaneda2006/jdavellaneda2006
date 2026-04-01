@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
-  <p>💻 Desarrollador en formación | 🎨 Interesado en creación digital | ⚽ Amante del cine y el mundo geek </p>
+  <p>💻 Desarrollador en diseño web | 🎨 Interesado en creación digital | ⚽ Amante del cine y el mundo geek </p>
 </div>
 
 <p align="center">
