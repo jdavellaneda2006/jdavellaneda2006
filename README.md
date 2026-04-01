@@ -77,9 +77,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-diego-avellaneda-8732533a4">
-  <img src="https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Avellaneda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Avellaneda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue">
 </a>
 <a href="mailto:juandiegoavellaneda06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-juandiegoavellaneda06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-juandiegoavellaneda06@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=Red">
 </a>
 </p>
