@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/followers/jdavellaneda2006?label=Followers&style=social">
   </a>
 <a href="https://www.youtube.com/@juandiegoavellaneda1748">
-  <img src=""https://img.shields.io/youtube/channel/subscribers/@juandiegoavellaneda1748?style=social"">
+  <img src="https://img.shields.io/youtube/channel/subscribers/@juandiegoavellaneda1748?style=social">
 </a>
    
   </a>
