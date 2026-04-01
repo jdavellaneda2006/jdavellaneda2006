@@ -7,7 +7,9 @@
   <a href="https://github.com/jdavellaneda2006"">
     <img src="https://img.shields.io/badge/Followers-3-blue?style=social">
   </a>
-  <a href="https://www.youtube.com/@juandiegoavellaneda1748">
+<a href="https://www.youtube.com/@juandiegoavellaneda1748">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCQvYlJc6lqkF0s2zX6zZk8g?style=social">
+</a>
    
   </a>
 </p>
