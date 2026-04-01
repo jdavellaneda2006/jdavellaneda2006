@@ -7,7 +7,7 @@
   <a href="https://github.com/tuusuario">
     <img src="https://img.shields.io/github/followers/tuusuario?label=Followers&style=social">
   </a>
-  <a href=["https://www.youtube.com/"](https://www.youtube.com/@juandiegoavellaneda1748)>
+  <a href="https://www.youtube.com/@juandiegoavellaneda1748">
     <img src="https://img.shields.io/youtube/channel/subscribers/ID?style=social">
   </a>
 </p>
