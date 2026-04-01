@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
   <p>💻 Desarrollador en diseño web | 🎨 Interesado en creación digital | ⚽ Amante del cine y el mundo geek </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Web;Diseñador+Creativo;Amante+del+arte+y+la+tecnología&center=true&width=500&height=50">
 </div>
 
 <p align="center">
