@@ -75,10 +75,10 @@
 ## 🌐 Contacto
 
 <p align="center">
-<a href="[https://linkedin.com](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_background_image_select%3BmxdQ%2Bc3hRK284LSYFCacug%3D%3D)/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/juan-diego-avellaneda-8732533a4">
+  <img src="https://img.shields.io/badge/LinkedIn-Juan%20Diego%20Avellaneda-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:juandiegoavellaneda06@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-juandiegoavellaneda06@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
