@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previ…/non_2x/abstract-technology-banner-background.jpg" width="100%">
+  <img src="https://www.shutterstock.com/image-vector/technolo…gital-flow-background-modern-600nw-2699719057.jpg" width="100%">
 </p>
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
