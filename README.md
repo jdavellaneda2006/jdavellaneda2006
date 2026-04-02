@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hhttps://img.freepik.com/foto-gratis/fondo-digital-…adado_53876-160646.jpg?semt=ais_hybrid&w=740&q=80" width="100%">
+  <img src="https://img.freepik.com/foto-gratis/fondo-digital-…adado_53876-160646.jpg?semt=ais_hybrid&w=740&q=80" width="100%">
 </p>
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
