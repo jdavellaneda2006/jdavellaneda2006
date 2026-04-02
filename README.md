@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.shutterstock.com/image-vector/technolo…gital-flow-background-modern-600nw-2699719057.jpg" width="100%">
+  <img src="hhttps://img.freepik.com/foto-gratis/fondo-digital-…adado_53876-160646.jpg?semt=ais_hybrid&w=740&q=80" width="100%">
 </p>
 <div align="center">
   <h1>Hola, soy Juan Diego 👋</h1>
